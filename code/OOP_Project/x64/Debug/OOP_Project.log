@@ -1,0 +1,13 @@
+﻿  Source.cpp
+E:\uni\semester 2\oop\OOP_Project\Header.h(384,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+E:\uni\semester 2\oop\OOP_Project\Header.h(520,20): warning C4584: 'Menu': base-class 'Register' is already a base-class of 'Login'
+E:\uni\semester 2\oop\OOP_Project\Header.h(234): message : see declaration of 'Register'
+E:\uni\semester 2\oop\OOP_Project\Header.h(418): message : see declaration of 'Login'
+E:\uni\semester 2\oop\OOP_Project\Header.h(727,20): warning C4584: 'Admin': base-class 'Doctor' is already a base-class of 'Patient'
+E:\uni\semester 2\oop\OOP_Project\Header.h(6): message : see declaration of 'Doctor'
+E:\uni\semester 2\oop\OOP_Project\Header.h(114): message : see declaration of 'Patient'
+E:\uni\semester 2\oop\OOP_Project\Header.h(725): warning C4717: 'Menu::AdminMenu': recursive on all control paths, function will cause runtime stack overflow
+E:\uni\semester 2\oop\OOP_Project\Header.h(684): warning C4717: 'Menu::PatientMenu': recursive on all control paths, function will cause runtime stack overflow
+E:\uni\semester 2\oop\OOP_Project\Header.h(694): warning C4717: 'Menu::DoctorMenu': recursive on all control paths, function will cause runtime stack overflow
+E:\uni\semester 2\oop\OOP_Project\Header.h(295): warning C4715: 'Register::RegisterUser': not all control paths return a value
+  OOP_Project.vcxproj -> E:\uni\semester 2\oop\OOP_Project\x64\Debug\OOP_Project.exe
